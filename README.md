@@ -14,7 +14,8 @@ else: selain itu jika if num < 100: maka empty = " "
 dan cetak print(empty, num, end = '') print()
 Output:
 
-latihan1.1
+![Screenshot (38)](https://user-images.githubusercontent.com/73042485/98522643-86b7b000-22a7-11eb-8b3e-6d9bd745dda5.png)
+
 
 Latihan 2
 latihan2
