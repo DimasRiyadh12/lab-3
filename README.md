@@ -1,7 +1,7 @@
 # lab-3     
 Latihan 1
 ![image](https://user-images.githubusercontent.com/73042485/98520323-75b96f80-22a4-11eb-896b-7c6ce1e10d1d.png)
-Latihan 1
+
 
 code-1
 
