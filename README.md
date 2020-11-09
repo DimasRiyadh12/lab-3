@@ -3,7 +3,7 @@ Latihan 1
 ![image](https://user-images.githubusercontent.com/73042485/98520323-75b96f80-22a4-11eb-896b-7c6ce1e10d1d.png)
 
 
-code-1
+![Screenshot (37)](https://user-images.githubusercontent.com/73042485/98521749-6dfaca80-22a6-11eb-9835-b2651d47fce8.png)
 
 Penjelasan:
 
