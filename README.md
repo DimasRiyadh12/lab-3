@@ -18,9 +18,11 @@ Output:
 
 
 Latihan 2
-latihan2
+![image](https://user-images.githubusercontent.com/73042485/98522957-e8781a00-22a7-11eb-92e3-b7f613fbfae7.png)
 
-code-2
+
+![Screenshot (41)](https://user-images.githubusercontent.com/73042485/98523220-3bea6800-22a8-11eb-88ba-233360926ea4.png)
+
 
 Penjelasan:
 
@@ -30,12 +32,15 @@ range() berfungsi menghasilkan list
 masukkan i = random.uniform (.0,.5) di gunakan untuk menampilkan bilangan float random, lalu masukkan a+=1 untuk memberi nomer pada bilangan float.
 print('data ke :',a,'==>', i) untuk menampilkan output data
 Output:
+![Screenshot (43)](https://user-images.githubusercontent.com/73042485/98523417-7bb14f80-22a8-11eb-8c4a-d408e337f13f.png)
+
 
 latihan2.2
 
 Modul Praktikum 2
 Latihan 1: Membuat program menentukan nilai akhir
-code-1-2
+![Screenshot (42)](https://user-images.githubusercontent.com/73042485/98523747-d8146f00-22a8-11eb-901a-c59d4997881c.png)
+
 
 Penjelasan:
 
@@ -78,7 +83,8 @@ latihan3-modul2
 Tugas Praktikum 2
 soal-praktikum-modul2
 
-code-3-2
+![image](https://user-images.githubusercontent.com/73042485/98523887-0db95800-22a9-11eb-857a-84c718e312ef.png)
+
 
 Penjelasan:
 
@@ -90,13 +96,15 @@ Output:
 
 tugas-praktikum-modul2
 
-Flowchart flowchart-praktikum-modul2
+![image](https://user-images.githubusercontent.com/73042485/98524051-49542200-22a9-11eb-9043-babed305a27b.png)
+
 
 Modul Praktikum 3
 Latihan 1
 latihan1-modul3
 
-code-1-3
+![image](https://user-images.githubusercontent.com/73042485/98524155-71438580-22a9-11eb-8b3f-b36cbdf5acd9.png)
+
 
 Penjelasan:
 
@@ -112,7 +120,8 @@ latihan2.2
 Latihan 2
 latihan2-modul3
 
-code-2-3
+![image](https://user-images.githubusercontent.com/73042485/98524270-989a5280-22a9-11eb-89fa-c81d34d4e115.png)
+
 
 Penjelasan:
 
@@ -135,7 +144,8 @@ latihan-2-out-modul3
 Tugas Praktikum 3
 program-1-modul3
 
-code-3-3
+![image](https://user-images.githubusercontent.com/73042485/98524396-c089b600-22a9-11eb-8cc0-5b4e2d2c325c.png)
+
 
 Penjelasan:
 
